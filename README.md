@@ -1,5 +1,5 @@
 # TabSaver Pro
-
+![Logo](https://github.com/Minix-Lab/TabSaver-Pro/blob/main/TabSaverPro%20logo128.png?raw=true)
 **TabSaver Pro** is the ultimate browser session manager. With this simple and powerful extension, you can easily save and restore your browser tabs for future use. Whether you're working on a project, researching, or simply need to switch between tasks, **TabSaver Pro** keeps your tabs organized and secure.
 
 ## Features
