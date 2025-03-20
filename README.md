@@ -33,10 +33,10 @@
 
 ## Screenshots
 
-![TabSaver Pro Demo](https://github.com/Minix-Lab/TabSaver-Pro/blob/main/TabSaver%20Pro%20Demo.png?raw=true)
-
-![TabSaver Pro Demo 2](https://github.com/Minix-Lab/TabSaver-Pro/blob/main/TabSaver%20Pro%20Demo2.png?raw=true)
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/Minix-Lab/TabSaver-Pro/blob/main/TabSaver%20Pro%20Demo.png?raw=true" width="45%" />
+  <img src="https://github.com/Minix-Lab/TabSaver-Pro/blob/main/TabSaver%20Pro%20Demo2.png?raw=true" width="45%" />
+</div>
 
 ## Contact
 
