@@ -29,7 +29,14 @@
 
 - **Never lose your tabs again**.  
 - **Keep your browser organized** without the clutter of having too many tabs open.  
-- Perfect for **students**, **researchers**, **professionals**, and anyone who needs to keep their browser organized.  
+- Perfect for **students**, **researchers**, **professionals**, and anyone who needs to keep their browser organized.
+
+## Screenshots
+
+![TabSaver Pro Demo](https://github.com/Minix-Lab/TabSaver-Pro/blob/main/TabSaver%20Pro%20Demo.png?raw=true)
+
+![TabSaver Pro Demo 2](https://github.com/Minix-Lab/TabSaver-Pro/blob/main/TabSaver%20Pro%20Demo2.png?raw=true)
+
 
 ## Contact
 
