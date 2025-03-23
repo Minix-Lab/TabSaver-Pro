@@ -24,7 +24,7 @@
 
 ## Installation
 
-1. Go to the [TabSaver Pro Chrome Extension page](#) and click "Add to Chrome".  
+1. Go to the [TabSaver Pro Chrome Extension page](https://chromewebstore.google.com/detail/bpmiieefonngaedglifapacoolbloama?utm_source=item-share-cb) and click "Add to Chrome".  
 2. Once installed, the extension will appear in your browser's toolbar.  
 3. Click on the icon to start using **TabSaver Pro** and begin saving your browser sessions.  
 
